@@ -724,6 +724,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
+- [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) : A detailed guide on gradually adopting SwiftUI in UIKit projects.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -804,6 +805,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [1ucasvb's laboriginal math and physics visualization](http://1ucasvb.tumblr.com) : Lucas Vieira Barbosa's lab original math and physics visualization
 - [Math ∩ Programming](https://jeremykun.com) : Math ∩ Programming
 - [My Tech Interviews](http://www.mytechinterviews.com) : PREPARE FOR A TECHNICAL INTERVIEW
+- [Nil Coalescing](https://nilcoalescing.com/blog/) : iOS and macOS app development blog
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html) : Paul Grahan Essays
 - [Programming Blog](http://www.yegor256.com) : programming blog of Yegor Bugayenko
 - [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
